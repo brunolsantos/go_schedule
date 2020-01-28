@@ -1,0 +1,62 @@
+{
+    "monday": {
+        "first": {
+            "team": "instinct",
+            "className": "instinct-team",
+            "time": "9h - 17h"
+        },
+        "second": {
+            "team": "valor",
+            "className": "valor-team",
+            "time": "17h-"
+        }
+    },
+    "tuesday": {
+        "first": {
+            "team": "mystic",
+            "className": "mystic-team",
+            "time": "9h - 17h"
+        },
+        "second": {
+            "team": "instinct",
+            "className": "instinct-team",
+            "time": "17h-"
+        }
+    },
+    "wednesday": {
+        "first": {
+            "team": "valor",
+            "className": "valor-team",
+            "time": "9h - 17h"
+        },
+        "second": {
+            "team": "mystic",
+            "className": "mystic-team",
+            "time": "17h-"
+        }
+    },
+    "thursday": {
+        "first": {
+            "team": "instinct",
+            "className": "instinct-team",
+            "time": "9h - 17h"
+        },
+        "second": {
+            "team": "valor",
+            "className": "valor-team",
+            "time": "17h-"
+        }
+    },
+    "friday": {
+        "first": {
+            "team": "mystic",
+            "className": "mystic-team",
+            "time": "9h - 17h"
+        },
+        "second": {
+            "team": "none",
+            "className": "none-team",
+            "time": "17h-"
+        }
+    }
+}
